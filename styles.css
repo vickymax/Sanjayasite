@@ -1,0 +1,63 @@
+body
+{
+  background-color: #caf7e3;
+  margin: 0;
+  padding: 100;
+  text-align: center;
+  font-size:150%;
+
+}
+hr
+{
+  background-color: white;
+  border-style: none;
+  height: 2px;
+}
+h1
+{
+  margin: 0;
+  color: #007580;
+  font-weight: bold;
+  font-family: 'Lobster', cursive;
+  font-size:150%;
+}
+h3,h2
+{
+  color: #007580;
+  font-weight: bold;
+  font-size:150%;
+}
+.desc
+{
+  font-family: 'Parisienne', cursive;
+  font-weight: 900;
+}
+.middlecontainer
+{
+
+
+}
+.bottomcontainer
+{
+
+}
+.mountain
+{
+  position: relative;
+}
+.textposition
+{
+  position: relative;
+  top: 200px;
+}
+p
+{
+  font-size:100%;
+}
+.full
+{
+  height: 100%;
+  width: 100%;
+  font-size:150%;
+
+}
