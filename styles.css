@@ -20,17 +20,20 @@ h1
   font-weight: bold;
   font-family: 'Lobster', cursive;
   font-size:150%;
+  text-align: center;
 }
 h3,h2
 {
   color: #007580;
   font-weight: bold;
   font-size:150%;
+  text-align: center;
 }
 .desc
 {
   font-family: 'Parisienne', cursive;
   font-weight: 900;
+  text-align: center;
 }
 .middlecontainer
 {
@@ -49,10 +52,12 @@ h3,h2
 {
   position: relative;
   top: 200px;
+  text-align: center;
 }
 p
 {
   font-size:100%;
+  text-align: center;
 }
 .full
 {
