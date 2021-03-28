@@ -4,7 +4,7 @@ body
   margin: 0;
   padding: 100;
   text-align: center;
-  font-size:150%;
+  
 
 }
 hr
@@ -26,7 +26,7 @@ h3,h2
 {
   color: #007580;
   font-weight: bold;
-  font-size:150%;
+  font-size:120%;
   text-align: center;
 }
 .desc
